@@ -27,20 +27,6 @@ const viaggi = [
         email: "luca.verdi@example.com",
         codiceFiscale: "VRDLCA85M01H501Z",
       },
-      {
-        id: 4,
-        nome: "Elena",
-        cognome: "Neri",
-        email: "elena.neri@example.com",
-        codiceFiscale: "NRNLEN85M01H501Z",
-      },
-      {
-        id: 5,
-        nome: "Francesco",
-        cognome: "Gialli",
-        email: "francesco.gialli@example.com",
-        codiceFiscale: "GLIFNC85M01H501Z",
-      },
     ],
   },
   {
@@ -87,7 +73,7 @@ const viaggi = [
     ],
   },
   {
-    id: 1,
+    id: 3,
     destinazione: "Venezia",
     dataInizio: "2025-04-01",
     dataFine: "2025-04-10",
@@ -119,13 +105,6 @@ const viaggi = [
         cognome: "Neri",
         email: "elio.neri@example.com",
         codiceFiscale: "NRNLEO85M01H501Z",
-      },
-      {
-        id: 5,
-        nome: "Francesca",
-        cognome: "Gialli",
-        email: "francesca.gialli@example.com",
-        codiceFiscale: "GLIFNC85M01H501Z",
       },
     ],
   },
